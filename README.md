@@ -1,5 +1,3 @@
-**
-
 ## React Firebase OTP verification system
 
 **Q) What it does?**
