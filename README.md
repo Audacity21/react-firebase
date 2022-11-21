@@ -1,8 +1,8 @@
 ## React Firebase OTP verification system
 
-**Q) What it does?**
-It takes a phone number as input and sends an OTP to it. The user then verifies the OTP in the next page and authentication is completed in this way.
-**Q) How to run the project?**
+**Q) What it does?**<br /<
+It takes a phone number as input and sends an OTP to it. The user then verifies the OTP in the next page and authentication is completed in this way. <br />
+**Q) How to run the project?**<br />
  - Pull the project to your local system using
  - Open the terminal and run `npm i`
  - Go to firebase console and create a new project
