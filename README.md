@@ -1,3 +1,5 @@
+**NOTE: The deployment link won't work anymore because I have disabled the firebase project. But the code still works if you put in your own firebase credentials.**
+
 ## React Firebase OTP verification system
 
 **Q) What it does?**<br /><br />
